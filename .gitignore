@@ -5,6 +5,7 @@ __pycache__/
 *.py[cod]
 *.pickle
 
+#R output
 *.Rproj*
 *.Rout
 .RData
@@ -23,3 +24,4 @@ README.{pdf,html,doc,docx,odt}
 *\~
 bib.keys
 *.swp
+.Rproj.user
